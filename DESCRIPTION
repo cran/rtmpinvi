@@ -1,7 +1,7 @@
 Package: rtmpinvi
 Type: Package
 Title: Interactive Tabular Matrix Problems via Pseudoinverse Estimation
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: 
     c(
         person("Ilya", "Bolotov", email = "ilya.bolotov@vse.cz",
@@ -25,16 +25,16 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Language: en-US
 Depends: R (>= 4.2)
-Imports: rtmpinv (>= 0.2.0)
+Imports: rtmpinv (>= 0.3.0)
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 URL: https://github.com/econcz/rtmpinvi
 BugReports: https://github.com/econcz/rtmpinvi/issues
 RoxygenNote: 7.3.3
 NeedsCompilation: no
-Packaged: 2026-02-20 15:27:13 UTC; ilyabolotov
+Packaged: 2026-03-11 07:24:53 UTC; ilyabolotov
 Author: Ilya Bolotov [aut, cre] (ORCID:
     <https://orcid.org/0000-0003-1148-7144>)
 Maintainer: Ilya Bolotov <ilya.bolotov@vse.cz>
 Repository: CRAN
-Date/Publication: 2026-02-25 10:30:02 UTC
+Date/Publication: 2026-03-11 08:30:03 UTC
